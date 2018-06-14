@@ -52,8 +52,13 @@
   <performance>
     <recording begin="00:00:00:00" end="00:01:45:00" betype="time" n="completeWork">
       <avFile targettype="youtube" target="https://www.youtube.com/watch?v=hCa55tAgsVg"></avFile>
-      <clip begin="00:00:00:00" end="00:00:04:00" betype="time" n="m1" startid="#m-43"></clip>
     </recording>
+    <recording begin="00:00:00:00" end="00:00:51:00" betype="time" n="voice">
+      <avFile targettype="youtube" mimetype="audio/midi" target=""></avFile>
+    </recording>
+    <recording begin="00:00:00:00" end="00:01:01:00" betype="time" n="accompaniment">
+      <avFile targettype="youtube" mimetype="audio/midi" target=""></avFile>
+    </recording>   
   </performance>
     <body xml:id="m-27">
         <mdiv xml:id="m-28">

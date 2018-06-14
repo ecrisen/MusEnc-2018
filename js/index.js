@@ -20,4 +20,4 @@ options = {
 vrvToolkit.setOptions(options)
 
 /* Show the score */
-showScore('score', 'data/example.mei') // <-- CHANGE THIS TO YOUR FILE
+showScore('score', 'data/Sie_liebten_sich_beide__Op._13_No._2_Clara_Schumann_nee_Wieck.xml') // <-- CHANGE THIS TO YOUR FILE
