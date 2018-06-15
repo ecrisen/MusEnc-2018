@@ -2,7 +2,7 @@
 // Get performance data from MEI file
 /* Setup and send the request */
 var xhr = new XMLHttpRequest()
-xhr.open('GET', 'data/example2.mei') // <-- change this to the right file
+xhr.open('GET', 'data/Sie_liebten_sich_beide__Op._13_No._2_Clara_Schumann_nee_Wieck.xml') // <-- change this to the right file
 xhr.send(null)
 
 /* Deal with the response */
